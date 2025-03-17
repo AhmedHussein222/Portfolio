@@ -2,7 +2,14 @@ import React from 'react'
 
 function New() {
   return (
-    <div>New</div>
+    <>
+    <Div>
+        <div className="container">
+            <h1>New Component</h1>
+        </div>
+    </Div>
+    
+    </>
   )
 }
 
